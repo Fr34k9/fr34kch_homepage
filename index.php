@@ -15,7 +15,7 @@
 				?>
 			<div id='container1'>
 				<div id='frontPage' style='position: relative; opacity: 0.3; font-size: 190px;' onMouseOver="this.style.opacity = '0.8';" onMouseOut="this.style.opacity = '0.3';">Fr34k<span>.</span>ch</div>
-				<div id='work' style='position: relative; font-size: 20px; margin-top: -30px;'>Local... Work in progress.... See u.</div>
+				<div id='work' style='position: relative; font-size: 20px; margin-top: -30px;'>Work in progress.... Have a good day. See u.</div>
 			</div>
 		</div>
 		<div id='page2' style='position: absolute; left: 0px; top: 0px; background-color: transparent;'>
