@@ -1,0 +1,30 @@
+@font-face {
+	font-family: DS-Digital-Bold;
+	src: url("../fonts/DS-Digital-Bold.eot") /* EOT file for IE */
+}
+@font-face {
+	font-family: DS-Digital-Bold;
+	src: url("../fonts/DS-Digital-Bold.ttf") /* TTF file for CSS3 browsers */
+}
+
+body{
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-image: url('../img/background.png');
+	margin: 0rem;
+	overflow: hidden;
+}
+
+h1 {
+	font-family: 'DS-Digital-Bold', monospace;
+	font-size: clamp(3rem, 10vw, 10rem);
+	color: #DDD;
+	padding: 0rem clamp(1rem, 2vw, 3rem);
+	border-radius: clamp(0.4rem, 0.75vw, 1rem);
+	opacity: 0.3;
+}
+
+h1:hover {
+	opacity: 0.8;
+}

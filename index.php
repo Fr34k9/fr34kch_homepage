@@ -8,11 +8,6 @@
 	</head>
 	<body style='overflow: hidden;'>
 		<div id='page1' style='position: absolute; left: 0px; top: 0px;'>
-				<?php
-				/*<div onClick="window.location='http://fr34k.ch:32400'" style='background-color: #DDD; width: 250px; position: relative; top: 50px; margin-left: auto; margin-right: auto; padding: 15px; font-size: 60px; border-style: solid; border-width: 2px; border-color: #DDD;'>
-					<img src='home/img/icons/icon_plex.png' height=60px> Plex
-				</div>*/
-				?>
 			<div id='container1'>
 				<div id='frontPage' style='position: relative; opacity: 0.3; font-size: 190px;' onMouseOver="this.style.opacity = '0.8';" onMouseOut="this.style.opacity = '0.3';">Fr34k<span>.</span>ch</div>
 				<div id='work' style='position: relative; font-size: 20px; margin-top: -30px;'>Work in progress.... Have a good day. See u.</div>
